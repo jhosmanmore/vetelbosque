@@ -1,27 +1,43 @@
-# ProyectoAngular
+# 🐾 Vet El Bosque – Página Web de Clínica Veterinaria
+Este proyecto es una aplicación web desarrollada con Angular para la clínica veterinaria Vet El Bosque. Su objetivo es proporcionar una plataforma digital moderna que facilite la interacción entre la clínica y sus clientes, ofreciendo información sobre servicios, contacto y más. (Este proyecto fue desarrollado como parte de una práctica universitaria, con autorización de la Clínica Veterinaria El Bosque, y tiene fines exclusivamente educativos.).
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 15.2.7.
+# 🌐 Demo en línea
+Ver la aplicación desplegada en: [vetelbosque.vercel.app](https://vetelbosque.vercel.app/)
 
-## Development server
+# 🛠️ Tecnologías Utilizadas
+- Angular CLI versión 15.2.7
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The application will automatically reload if you change any of the source files.
+- TypeScript
 
-## Code scaffolding
+- HTML5 y CSS3
 
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
+- Vercel para despliegue continuo
 
-## Build
+# 📁 Estructura del Proyecto
+- src/: Contiene el código fuente de la aplicación.
 
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory.
+- .vscode/: Configuraciones específicas del editor Visual Studio Code.
 
-## Running unit tests
+- angular.json: Configuración del proyecto Angular.
 
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
+- package.json: Dependencias y scripts del proyecto.
 
-## Running end-to-end tests
+- tsconfig*.json: Configuraciones de TypeScript.
 
-Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To use this command, you need to first add a package that implements end-to-end testing capabilities.
+# 🚀 Instalación y Ejecución
+- Clonar el repositorio: git clone https://github.com/jhosmanmore/vetelbosque.git
+cd vetelbosque
+- Instalar dependencias: npm install
+- Iniciar el servidor de desarrollo: ng serve
 
-## Further help
+# 📌 Características
+- Diseño responsivo y amigable.
 
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
+- Información detallada sobre servicios veterinarios.
+
+- Sección de contacto para facilitar la comunicación con clientes.
+
+- Escalable para futuras integraciones y funcionalidades adicionales.
+
+# 📄 Licencia
+Este proyecto está bajo la licencia MIT.
